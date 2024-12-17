@@ -1,3 +1,0 @@
-- 👋 Hi, I’m @TalitaJugni.
-- 👀 I’m interested in programação, computadores, tecnologia, games, camping, Nature and cats.
-- 🌱 I currently study software engineering at Unicesumar.
